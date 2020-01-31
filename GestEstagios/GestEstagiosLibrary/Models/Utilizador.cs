@@ -6,5 +6,6 @@ namespace GestEstagiosLibrary.Models
 {
     class Utilizador
     {
+        /*teste*/
     }
 }
