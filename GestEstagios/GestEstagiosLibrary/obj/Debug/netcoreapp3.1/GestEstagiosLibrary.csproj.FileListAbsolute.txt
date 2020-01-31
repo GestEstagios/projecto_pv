@@ -1,0 +1,10 @@
+C:\Users\Casa\Source\Repos\GestEstagios\projecto_pv\GestEstagios\GestEstagiosLibrary\bin\Debug\netcoreapp3.1\GestEstagiosLibrary.deps.json
+C:\Users\Casa\Source\Repos\GestEstagios\projecto_pv\GestEstagios\GestEstagiosLibrary\bin\Debug\netcoreapp3.1\GestEstagiosLibrary.runtimeconfig.json
+C:\Users\Casa\Source\Repos\GestEstagios\projecto_pv\GestEstagios\GestEstagiosLibrary\bin\Debug\netcoreapp3.1\GestEstagiosLibrary.runtimeconfig.dev.json
+C:\Users\Casa\Source\Repos\GestEstagios\projecto_pv\GestEstagios\GestEstagiosLibrary\bin\Debug\netcoreapp3.1\GestEstagiosLibrary.dll
+C:\Users\Casa\Source\Repos\GestEstagios\projecto_pv\GestEstagios\GestEstagiosLibrary\bin\Debug\netcoreapp3.1\GestEstagiosLibrary.pdb
+C:\Users\Casa\Source\Repos\GestEstagios\projecto_pv\GestEstagios\GestEstagiosLibrary\obj\Debug\netcoreapp3.1\GestEstagiosLibrary.AssemblyInfoInputs.cache
+C:\Users\Casa\Source\Repos\GestEstagios\projecto_pv\GestEstagios\GestEstagiosLibrary\obj\Debug\netcoreapp3.1\GestEstagiosLibrary.AssemblyInfo.cs
+C:\Users\Casa\Source\Repos\GestEstagios\projecto_pv\GestEstagios\GestEstagiosLibrary\obj\Debug\netcoreapp3.1\GestEstagiosLibrary.dll
+C:\Users\Casa\Source\Repos\GestEstagios\projecto_pv\GestEstagios\GestEstagiosLibrary\obj\Debug\netcoreapp3.1\GestEstagiosLibrary.pdb
+C:\Users\Casa\Source\Repos\GestEstagios\projecto_pv\GestEstagios\GestEstagiosLibrary\obj\Debug\netcoreapp3.1\GestEstagiosLibrary.csprojAssemblyReference.cache
